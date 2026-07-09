@@ -1,6 +1,6 @@
-# ChatApp
+# LetsChat
 
-ChatApp is a real-time full-stack messaging application built with modern web technologies. It offers users a fast, secure, and smooth chatting experience with live messaging, online presence, and protected authentication.
+LetsChat is a real-time full-stack messaging application built with modern web technologies. It offers users a fast, secure, and smooth chatting experience with live messaging, online presence, and protected authentication.
 
 ## Features
 
