@@ -4,11 +4,11 @@ LetsChat is a real-time full-stack messaging application built with modern web t
 
 ## Features
 
-- **Real-time chat** powered by Socket.IO — instant messaging with live online status
-- **Secure auth** — JWT-based authentication with protected client/server routes
-- **Modular architecture** — reusable components for a fast, maintainable UI
-- **Robust error handling** — structured responses across frontend and backend
-- **Personalization** — full profile and settings management
+- **Real-time chat** powered by Socket.IO - instant messaging with live online status
+- **Secure auth** - JWT-based authentication with protected client/server routes
+- **Modular architecture** - reusable components for a fast, maintainable UI
+- **Robust error handling** - structured responses across frontend and backend
+- **Personalization** - full profile and settings management
 
 ## Tech Stack
 
